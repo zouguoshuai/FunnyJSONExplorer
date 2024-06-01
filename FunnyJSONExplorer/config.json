@@ -1,0 +1,16 @@
+{
+  "icon_families": {
+    "default": {
+      "icon_container": "★",
+      "icon_leaf": "▲"
+    },
+    "poker": {
+      "icon_container": "♠",
+      "icon_leaf": "♥"
+    },
+    "new_family": {
+      "icon_container": "☁",
+      "icon_leaf": "☀"
+    }
+  }
+}
